@@ -1,0 +1,10 @@
+README
+
+Dataset Link: https://archive.org/details/twitter_cikm_2010
+Download the zip file of this dataset. 
+
+
+How to run the code:
+1. Use the directory of the training_set_data.txt in the dataset file as the path in data_process.py.
+2. run data_process.py first
+3. then run hashtag_recommend.py and tf_idf.py
